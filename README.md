@@ -13,8 +13,11 @@ Java 21
 Cómo ejecutar:
 
 1- Cloná el repositorio
+
 git clone https://github.com/BertoloneMauro/conversor-api.git
+
 cd conversor-api
+
 
 2- Ejecutar el backend (Spring boot). Podes hacerlo desde el IDE o con el código "/mvnw spring-boot:run
 
